@@ -15,8 +15,8 @@ sidebar:
   email: olecram127@hotmail.com
   phone: 3121118469
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/marcelo-ramirez-morfin-aab069222/
-  github: https://github.com/YxMARCKxY
+  linkedin: marcelo-ramirez-morfin-aab069222/
+  github: YxMARCKxY
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -43,7 +43,7 @@ sidebar:
     - item: Strategy
       link: # dejar en blanco
 
-    - item: Optimismo
+    - item: Optimism
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
