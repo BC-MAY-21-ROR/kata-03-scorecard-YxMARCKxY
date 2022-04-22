@@ -86,39 +86,36 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Full-stack Developer
-    time: 2019 mar - 2019 dec
-    company: Freelance N/A
-    details: |
-     I created a web platform for create certificates and 
-     send to users that attend courses about trainings en
-     radio links.
-
-  - role: Web Developer
-    time: 2021 jan - 2021 nov
-    company: Educ, Universidad de Colima
-    details: |
-     I gived mi social service in this organization and 
-     I worked during this time given a solution to some 
-     bugs in the website and  updating some others
-     parts in the front-end, working in all moment 
-     with issuesof git.
-
-  - role: Full-stack Developer
-    time: 2021 aug - 2021 nov
-    company: N/A
-    details: |
-     I developed a device IoT for collect information 
-     of all type using cards RFID. Developed on a 
-     raspberry pi for my professional thesis
-     
-   - role: Web Developer
-    time: 2022 jan - 2022 feb
-    company: Codenado Mexico
-    details: |
-     During my professional practices I collaborated to
-     add a new section for a new platform within which
-     vacancies can be posted relat e d with the IT
+    - role: Full-stack Developer
+      time: 2019 mar - 2019 dec
+      company: Freelance N/A
+      details: |
+        I created a web platform for create certificates and 
+        send to users that attend courses about trainings en
+        radio links.
+    - role: Web Developer
+      time: 2021 jan - 2021 nov
+      company: Educ, Universidad de Colima
+      details: |
+        I gived mi social service in this organization and 
+        I worked during this time given a solution to some 
+        bugs in the website and  updating some others
+        parts in the front-end, working in all moment 
+        with issuesof git.
+    - role: Full-stack Developer
+      time: 2021 aug - 2021 nov
+      company: N/A
+      details: |
+        I developed a device IoT for collect information 
+        of all type using cards RFID. Developed on a 
+        raspberry pi for my professional thesis.
+    - role: Web Developer
+      time: 2022 jan - 2022 feb
+      company: Codenado Mexico
+      details: |
+        During my professional practices I collaborated to
+        add a new section for a new platform within which
+        vacancies can be posted relat e d with the IT.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
